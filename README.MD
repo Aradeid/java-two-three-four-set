@@ -3,7 +3,7 @@ This is a Java implementation for [2-3-4 binary trees](https://en.wikipedia.org/
 Initially created as part of a university assignment, I now use it to showacase that I indeed do have some knowledge of Java programming.
 
 ## Disclaimer
-The tests presented in this project have not been written by my, but instead were provided as part of the assignment.
+The tests presented in this project have not been written by me, but instead were provided as part of the assignment.
 
 ## Documentation
 The class' *TwoThreeFourTreeSet* attributes are used as follows:
