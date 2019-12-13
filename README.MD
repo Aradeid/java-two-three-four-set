@@ -1,11 +1,11 @@
-##Description
+## Description
 This is a Java implementation for [2-3-4 binary trees](https://en.wikipedia.org/wiki/2%E2%80%933%E2%80%934_tree) also known as red-black trees.
 Initially created as part of a university assignment, I now use it to showacase that I indeed do have some knowledge of Java programming.
 
-##Disclaimer
+## Disclaimer
 The tests presented in this project have not been written by my, but instead were provided as part of the assignment.
 
-##Documentation
+## Documentation
 The class' *TwoThreeFourTreeSet* attributes are used as follows:
 - *values* - array of T, contains all values in the current node;
 - *valCount* - number of values in array; used to increase efficiency;
